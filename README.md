@@ -44,8 +44,8 @@ Once this is done, you just need to add this to your project.xml
 
 ###Disclaimer
 
-Google is a registered trademark of Google Inc.
-http://unibrander.com/united-states/140279US/google.html
+YouTube is a registered trademark of Google Inc.
+http://es.unibrander.com/estados-unidos/175497US/youtube.html
 
 ###License
 
