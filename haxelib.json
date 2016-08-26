@@ -1,13 +1,11 @@
 {
   "name": "extension-youtubeplayer",
-  "url": "",
+  "url": "https://github.com/SempaiGames/extension-youtubeplayer",
   "license": "MIT",
-  "tags": [],
-  "description": "",
+  "tags": ["youtube","videos","video","nme","openfl"],
+  "description": "OpenFL / NMM extension for YouTube Videos",
   "version": "1.0.0",
-  "releasenote": "",
-  "contributors": [""],
-  "dependencies": {
-
-  }
+  "releasenote": "First release - working on android...",
+  "contributors": ["fbricker"],
+  "dependencies": {}
 }
