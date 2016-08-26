@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<!-- <ndll name="extension_youtubeplayer" /> -->
+	
+	<!-- Use the following for an Android Java extension, not needed otherwise -->
+	
+	<dependency name="youtubeplayer" path="dependencies/youtubeplayer" if="android" />
+
+	<android extension="org.haxe.extension.youtubeplayer.YoutubePlayer" />
+	
+</project>
