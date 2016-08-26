@@ -18,7 +18,7 @@ class MainClass {
 
 	function new() {
 		// first of all... call init on the main method.
-		GooglePlayGames.init("BIcaSyDFTNiRQz56Wn146Mud6DwmaYNds2tG000"); //App's Google developer Key
+		YouTubePlayer.init("BIcaSyDFTNiRQz56Wn146Mud6DwmaYNds2tG000"); //Google app developer Key
 	}
 	
 	function loadVideo() {
