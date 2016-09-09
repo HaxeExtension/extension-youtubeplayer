@@ -42,7 +42,6 @@ public class YoutubePlayer extends Extension /*implements YouTubePlayer.OnFullsc
 		});
 		
 	}
-	// "nCgQDjiotG0"
 	
 	
 	/**

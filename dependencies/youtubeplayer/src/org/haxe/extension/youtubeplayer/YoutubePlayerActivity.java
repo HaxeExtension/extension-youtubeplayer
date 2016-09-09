@@ -44,7 +44,7 @@ public class YoutubePlayerActivity extends Activity implements YouTubePlayer.OnF
 				Log.i("youtubeplayer", "youtubePlayer inited successfully");
 				YoutubePlayerActivity.youTubePlayerFragment = (YouTubePlayerFragment) provider;
 				YoutubePlayerActivity.player = player;
-				YoutubePlayerActivity.player.addFullscreenControlFlag(YouTubePlayer.FULLSCREEN_FLAG_CUSTOM_LAYOUT);
+				YoutubePlayerActivity.player.addFullscreenControlFlag(YouTubePlayer.FULLSCREEN_FLAG_ALWAYS_FULLSCREEN_IN_LANDSCAPE);
 				YoutubePlayerActivity.player.setOnFullscreenListener(new YoutubePlayerActivity() );
 				YoutubePlayerActivity.initialized = true;
 				if(fullscreenForced) {
