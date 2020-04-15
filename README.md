@@ -3,11 +3,11 @@
 Native extension for in-app youtube videos on Android.
 
 
-###Main Features
+### Main Features
 
 * Play YouTube Videos.
 
-###Simple use Example
+### Simple use Example
 
 ```haxe
 // This example show a simple use case.
@@ -30,7 +30,7 @@ class MainClass {
 
 ```
 
-###How to Install
+### How to Install
 
 To install this library, you can simply get the library from haxelib like this:
 ```bash
@@ -42,12 +42,12 @@ Once this is done, you just need to add this to your project.xml
 <haxelib name="extension-youtubeplayer" />
 ```
 
-###Disclaimer
+### Disclaimer
 
 YouTube is a registered trademark of Google Inc.
 http://unibrander.com/united-states/175497US/youtube.html
 
-###License
+### License
 
 The MIT License (MIT) - [LICENSE.md](LICENSE.md)
 
